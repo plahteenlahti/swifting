@@ -14,9 +14,9 @@ struct SwiftLahteenlahtiCom: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
-    var name = "SwiftLahteenlahtiCom"
-    var description = "A description of SwiftLahteenlahtiCom"
+    var url = URL(string: "https://swift.lahteenlahti.com")!
+    var name = "100 Days of Swift By Perttu Lähteenlahti"
+    var description = "Microblog to track my progress on learning Swift and SwiftUI by doing it every day for 100 days."
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
