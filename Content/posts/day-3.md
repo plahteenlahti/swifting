@@ -1,5 +1,5 @@
 ---
-date: 2020-05-24 10:43
+date: 2020-05-25 10:43
 description: Operators and conditions
 tags: Swift, 100DaysOfSwiftUi
 ---
